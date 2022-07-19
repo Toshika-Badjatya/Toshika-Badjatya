@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toshika-Badjatya
-- 👀 I’m interested in Android development nd java
+- 👀 I’m interested in Android development and java
 
 
 <!---
